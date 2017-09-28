@@ -1,0 +1,50 @@
+body {
+    background-color: lightblue;
+}
+
+img{
+	padding:5px;
+}
+
+button{
+	background-color: #f44336;
+	border-radius: 8px;
+	width:10%;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+#gifs-appear-here{
+	margin-top: 8.5%;
+	width:50%;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+#search-bar{
+	text-align: left;
+	margin-top: 10%;
+	margin-left: 10%;
+
+}
+#main-two{
+	display: flex;
+	flex-direction: row;
+}
+#input-name{
+	margin-bottom: 3%;
+}
+#sub-button{
+text-align: left;
+}
+#your-name{
+	width:100%;
+	margin-top: 3%;
+	margin-bottom: 3%;
+}
+#save-name{
+	background-color: #f44336;
+	border-radius: 8px;
+	width:30%;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+	
+}
